@@ -2,6 +2,11 @@
 This datasen consist of csv files. 
 Records motion sensors (accelerometer, gyroscope, magnetometer, and gravity) and GPS from smartphones which are brought while driving motorcycle.
 
+
+Please cite this paper if you use this dataset:
+Budi Darma Setiawan, Mate Kovacs, Uwe Serdült, Victor Kryssanov, Semantic Segmentation on Smartphone Motion Sensor Data for Road Surface Monitoring, Procedia Computer Science, Volume 204, 2022, Pages 346-353, https://doi.org/10.1016/j.procs.2022.08.042.
+
+
 column  column-name 
 1       accelerometer x
 2       accelerometer y
